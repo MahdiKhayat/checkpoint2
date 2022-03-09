@@ -1,0 +1,27 @@
+.App {
+    text-align: center;
+    background-color: darkgray;
+  }
+  
+.video1 {
+    width: 320px;
+    height: 240px;
+    margin-top: 20px;
+}
+.title.red{
+    font-size: 50px;
+    color:darkgreen;
+    background-color: beige;
+}
+.image1{
+    display:block;
+    width:auto;
+    margin-left:50px;
+    margin-right:auto;  
+}
+.image2{
+    display:block;
+    width:auto;
+    margin-left:auto;
+    margin-right: 50px;;  
+}
